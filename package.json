@@ -1,0 +1,22 @@
+{
+  "name": "comos-owl",
+  "displayName": "Cosmos Owl",
+  "publisher": "el0yc0sm0",
+  "description": "Um tema que lembra as profundezas do cosmo, baseado no omni owl",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cosmos owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmos owl-color-theme.json"
+      }
+    ]
+  }
+}
